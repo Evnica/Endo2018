@@ -9,4 +9,10 @@ package com.evnica.main.model;
  */
 public class HeartRateZoneDuration
 {
+    public int workoutId;
+    public int zone1Duration,
+            zone2Duration,
+            zone3Duration,
+            zone4Duration,
+            zone5Duration;
 }

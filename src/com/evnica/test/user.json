@@ -1,0 +1,30 @@
+{
+  "expand": "full",
+  "id": 1311,
+  "first_name": "Lars",
+  "last_name": "B",
+  "picture": {
+    "url": "https://www.endomondo.com/resources/gfx/image/2738396/268905e87df5bb658b47cdedc840c3ff/thumbnail.jpg"
+  },
+  "gender": 0,
+  "is_premium": false,
+  "weight": 83,
+  "height": 192,
+  "hr_zones": {
+    "max": 176,
+    "rest": 54,
+    "zone1_start": 115,
+    "zone2_start": 127,
+    "zone3_start": 139,
+    "zone4_start": 152,
+    "zone5_start": 164
+  },
+  "date_of_birth": "1963-06-02T07:21:02.000Z",
+  "workout_count": 3884,
+  "friend_count": 254,
+  "created_date": "2008-11-13T17:28:18.000Z",
+  "has_dismissed_download_box": true,
+  "country": "DK",
+  "name": "Lars B",
+  "viewer_friendship": 1
+}
